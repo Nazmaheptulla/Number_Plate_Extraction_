@@ -1,0 +1,14 @@
+description: Ultralytics YOLO11s-obb model trained on /content/vechile_number_plate-1/data.yaml
+author: Ultralytics
+date: '2024-12-12T06:48:40.476814'
+version: 8.3.49
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: obb
+batch: 1
+imgsz:
+- 1024
+- 1024
+names:
+  0: numberplate
